@@ -1,105 +1,105 @@
 # Programming challenges
 
-* Name Generator
-* Higher/Lower | Heads/Tails
-* Temperature Converter
-* Calculate Age in Seconds
-* Encrypt/Decrypt Algorithm
-* FizzBuzz
-* Rock Paper Scissors (Optional: Rock Paper Scissors Lizard Spock)
-* Hangman
-* Love Calculator
-* Pseudorandom Sentence Generator
-* Password Generator
-* Atomically Correct Time From an Internet Clock
-* Haiku Generator
-* Magic Eight Ball
-* Collatz Conjecture
-* Reverse a String
-* Simple File Explorer
-* Count Words in a String
-* Minesweeper
-* Connect Four
-* BMI Calculator
-* 4Chan Thread Downloader (images)
-* Sudoku Generator/Solver
-* Maze Generator/Solver
-* Decimal/Binary Converter
-* Picross Solver
-* Eulerian Path
-* Fibonnaci Sequence
-* Calculate & Print 100 Factorial
-* Create a cipher encrypt/decrypt tool\*
-* Blackjack
-* Dungeons & Dragons w/ AI
-* Generate ASCII Tree (height based on input)
-* Use Genetic Algorithm on Polygons
-* Benford's Law
-* Currency Converter
-* Static Website Generator
-* Crossword Game
-* Scientific Calculator
-* Perlin Noise Algorithm
-* Image Viewer
-* ASCII Digital Clock
-* Dijkstra's Algorithm
-* Text/Morse Translator (Optional: create sound)
-* Tick-Tac-Toe
-* Snake Game
-* FTP Client
-* Telnet Server
-* IMP Interpreter
-* Tetris
-* Conway's Game of Life
-* Web Crawler
-* Text Editor
-* RSS Feed Creator
-* Evaluate Binomial Coefficients
-* RPN Calculator
-* Mandelbrot Set
-* Sorting Algorithm
-* Convert Markup -> HTML
-* N Queens Problem
-* Credential Validator (ex: Phone #, e-mail address)
-* Linked List
-* Mastermind
-* Random Image Generator
-* Ulam Spiral
-* Klingon Translator
-* Prime number generator using a Sieve
-* Markov Chain
-* Graphical Analog Clock + GUI
-* 2 Seperate Languages Send STrings to One Another (C++ & Java, Lisp & Python, etc.)
-* Triangle Number Calculator
-* Calculate Typing Speed
-* Name Art in ASCII
-* Tower of Hanoi
-* Quine
-* IRC Bot
-* Brainfuck Interpreter
-* Visualization of #57 (Bonus: add sound)
-* Chip-8 Emulator
-* Geekcode Generator (3.12)
-* Define, Translate, & Rotate a Polygon
-* Pong w/ Variable Vectors
-* Battleships w/ AI
-* Simple Paint Program
-* TCP Chat w/ Basic Encryption (XOR)
-* Incremental Economy Simulator (Time of Exploration)
-* Encrypt/Decrypt Text into an Image
-* Pascal's Triangle
-* Sine wave Generator from Pseudorandom Numbers
-* Basic HTML Web Browser
-* Flappy Bird
-* Fast Fourier Transform
-* Method Ringing Simulator
-* Binary Search
-* nintendo Oil Panic
-* Sierpinski Triangle Generator
-* Calculate Dot-&-Cross of 2 Vectors
-* Little Man Computer Simulator
-* Basic Lisp Interpreter
-* Enigma Machine Simulator with settings.conf (Hard mode: decrypt message without known settings)
+1. Name Generator
+1. Higher/Lower | Heads/Tails
+1. Temperature Converter
+1. Calculate Age in Seconds
+1. Encrypt/Decrypt Algorithm
+1. FizzBuzz
+1. Rock Paper Scissors (Optional: Rock Paper Scissors Lizard Spock)
+1. Hangman
+1. Love Calculator
+1. Pseudorandom Sentence Generator
+1. Password Generator
+1. Atomically Correct Time From an Internet Clock
+1. Haiku Generator
+1. Magic Eight Ball
+1. Collatz Conjecture
+1. Reverse a String
+1. Simple File Explorer
+1. Count Words in a String
+1. Minesweeper
+1. Connect Four
+1. BMI Calculator
+1. 4Chan Thread Downloader (images)
+1. Sudoku Generator/Solver
+1. Maze Generator/Solver
+1. Decimal/Binary Converter
+1. Picross Solver
+1. Eulerian Path
+1. Fibonnaci Sequence
+1. Calculate & Print 100 Factorial
+1. Create a cipher encrypt/decrypt tool\*
+1. Blackjack
+1. Dungeons & Dragons w/ AI
+1. Generate ASCII Tree (height based on input)
+1. Use Genetic Algorithm on Polygons
+1. Benford's Law
+1. Currency Converter
+1. Static Website Generator
+1. Crossword Game
+1. Scientific Calculator
+1. Perlin Noise Algorithm
+1. Image Viewer
+1. ASCII Digital Clock
+1. Dijkstra's Algorithm
+1. Text/Morse Translator (Optional: create sound)
+1. Tick-Tac-Toe
+1. Snake Game
+1. FTP Client
+1. Telnet Server
+1. IMP Interpreter
+1. Tetris
+1. Conway's Game of Life
+1. Web Crawler
+1. Text Editor
+1. RSS Feed Creator
+1. Evaluate Binomial Coefficients
+1. RPN Calculator
+1. Mandelbrot Set
+1. Sorting Algorithm
+1. Convert Markup -> HTML
+1. N Queens Problem
+1. Credential Validator (ex: Phone #, e-mail address)
+1. Linked List
+1. Mastermind
+1. Random Image Generator
+1. Ulam Spiral
+1. Klingon Translator
+1. Prime number generator using a Sieve
+1. Markov Chain
+1. Graphical Analog Clock + GUI
+1. 2 Seperate Languages Send STrings to One Another (C++ & Java, Lisp & Python, etc.)
+1. Triangle Number Calculator
+1. Calculate Typing Speed
+1. Name Art in ASCII
+1. Tower of Hanoi
+1. Quine
+1. IRC Bot
+1. Brainfuck Interpreter
+1. Visualization of #57 (Bonus: add sound)
+1. Chip-8 Emulator
+1. Geekcode Generator (3.12)
+1. Define, Translate, & Rotate a Polygon
+1. Pong w/ Variable Vectors
+1. Battleships w/ AI
+1. Simple Paint Program
+1. TCP Chat w/ Basic Encryption (XOR)
+1. Incremental Economy Simulator (Time of Exploration)
+1. Encrypt/Decrypt Text into an Image
+1. Pascal's Triangle
+1. Sine wave Generator from Pseudorandom Numbers
+1. Basic HTML Web Browser
+1. Flappy Bird
+1. Fast Fourier Transform
+1. Method Ringing Simulator
+1. Binary Search
+1. nintendo Oil Panic
+1. Sierpinski Triangle Generator
+1. Calculate Dot-&-Cross of 2 Vectors
+1. Little Man Computer Simulator
+1. Basic Lisp Interpreter
+1. Enigma Machine Simulator with settings.conf (Hard mode: decrypt message without known settings)
 
 Changed: 40, 69, 89
 Categories:
