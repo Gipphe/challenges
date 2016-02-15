@@ -6,7 +6,7 @@
   <li>Temperature Converter</li>
   <li>Calculate Age in Seconds</li>
   <li>Encrypt/Decrypt Algorithm</li>
-  <li>FizzBuzz</li>
+  <li>X FizzBuzz</li>
   <li>Rock Paper Scissors (Optional: Rock Paper Scissors Lizard Spock)</li>
   <li>Hangman</li>
   <li>Love Calculator</li>
