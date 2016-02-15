@@ -1,6 +1,6 @@
 # Programming challenges
 
-0. Name Generator
+\0. Name Generator
 1. Higher/Lower | Heads/Tails
 1. Temperature Converter
 1. Calculate Age in Seconds
