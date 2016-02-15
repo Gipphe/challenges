@@ -1,105 +1,107 @@
 # Programming challenges
 
-\0. Name Generator
-1. Higher/Lower | Heads/Tails
-1. Temperature Converter
-1. Calculate Age in Seconds
-1. Encrypt/Decrypt Algorithm
-1. FizzBuzz
-1. Rock Paper Scissors (Optional: Rock Paper Scissors Lizard Spock)
-1. Hangman
-1. Love Calculator
-1. Pseudorandom Sentence Generator
-1. Password Generator
-1. Atomically Correct Time From an Internet Clock
-1. Haiku Generator
-1. Magic Eight Ball
-1. Collatz Conjecture
-1. Reverse a String
-1. Simple File Explorer
-1. Count Words in a String
-1. Minesweeper
-1. Connect Four
-1. BMI Calculator
-1. 4Chan Thread Downloader (images)
-1. Sudoku Generator/Solver
-1. Maze Generator/Solver
-1. Decimal/Binary Converter
-1. Picross Solver
-1. Eulerian Path
-1. Fibonnaci Sequence
-1. Calculate & Print 100 Factorial
-1. Create a cipher encrypt/decrypt tool\*
-1. Blackjack
-1. Dungeons & Dragons w/ AI
-1. Generate ASCII Tree (height based on input)
-1. Use Genetic Algorithm on Polygons
-1. Benford's Law
-1. Currency Converter
-1. Static Website Generator
-1. Crossword Game
-1. Scientific Calculator
-1. Perlin Noise Algorithm
-1. Image Viewer
-1. ASCII Digital Clock
-1. Dijkstra's Algorithm
-1. Text/Morse Translator (Optional: create sound)
-1. Tick-Tac-Toe
-1. Snake Game
-1. FTP Client
-1. Telnet Server
-1. IMP Interpreter
-1. Tetris
-1. Conway's Game of Life
-1. Web Crawler
-1. Text Editor
-1. RSS Feed Creator
-1. Evaluate Binomial Coefficients
-1. RPN Calculator
-1. Mandelbrot Set
-1. Sorting Algorithm
-1. Convert Markup -> HTML
-1. N Queens Problem
-1. Credential Validator (ex: Phone #, e-mail address)
-1. Linked List
-1. Mastermind
-1. Random Image Generator
-1. Ulam Spiral
-1. Klingon Translator
-1. Prime number generator using a Sieve
-1. Markov Chain
-1. Graphical Analog Clock + GUI
-1. 2 Seperate Languages Send STrings to One Another (C++ & Java, Lisp & Python, etc.)
-1. Triangle Number Calculator
-1. Calculate Typing Speed
-1. Name Art in ASCII
-1. Tower of Hanoi
-1. Quine
-1. IRC Bot
-1. Brainfuck Interpreter
-1. Visualization of #57 (Bonus: add sound)
-1. Chip-8 Emulator
-1. Geekcode Generator (3.12)
-1. Define, Translate, & Rotate a Polygon
-1. Pong w/ Variable Vectors
-1. Battleships w/ AI
-1. Simple Paint Program
-1. TCP Chat w/ Basic Encryption (XOR)
-1. Incremental Economy Simulator (Time of Exploration)
-1. Encrypt/Decrypt Text into an Image
-1. Pascal's Triangle
-1. Sine wave Generator from Pseudorandom Numbers
-1. Basic HTML Web Browser
-1. Flappy Bird
-1. Fast Fourier Transform
-1. Method Ringing Simulator
-1. Binary Search
-1. nintendo Oil Panic
-1. Sierpinski Triangle Generator
-1. Calculate Dot-&-Cross of 2 Vectors
-1. Little Man Computer Simulator
-1. Basic Lisp Interpreter
-1. Enigma Machine Simulator with settings.conf (Hard mode: decrypt message without known settings)
+<ol start="0">
+  <li>Name Generator</li>
+  <li>Higher/Lower | Heads/Tails</li>
+  <li>Temperature Converter</li>
+  <li>Calculate Age in Seconds</li>
+  <li>Encrypt/Decrypt Algorithm</li>
+  <li>FizzBuzz</li>
+  <li>Rock Paper Scissors (Optional: Rock Paper Scissors Lizard Spock)</li>
+  <li>Hangman</li>
+  <li>Love Calculator</li>
+  <li>Pseudorandom Sentence Generator</li>
+  <li>Password Generator</li>
+  <li>Atomically Correct Time From an Internet Clock</li>
+  <li>Haiku Generator</li>
+  <li>Magic Eight Ball</li>
+  <li>Collatz Conjecture</li>
+  <li>Reverse a String</li>
+  <li>Simple File Explorer</li>
+  <li>Count Words in a String</li>
+  <li>Minesweeper</li>
+  <li>Connect Four</li>
+  <li>BMI Calculator</li>
+  <li>4Chan Thread Downloader (images)</li>
+  <li>Sudoku Generator/Solver</li>
+  <li>Maze Generator/Solver</li>
+  <li>Decimal/Binary Converter</li>
+  <li>Picross Solver</li>
+  <li>Eulerian Path</li>
+  <li>Fibonnaci Sequence</li>
+  <li>Calculate & Print 100 Factorial</li>
+  <li>Create a cipher encrypt/decrypt tool\*</li>
+  <li>Blackjack</li>
+  <li>Dungeons & Dragons w/ AI</li>
+  <li>Generate ASCII Tree (height based on input)</li>
+  <li>Use Genetic Algorithm on Polygons</li>
+  <li>Benford's Law</li>
+  <li>Currency Converter</li>
+  <li>Static Website Generator</li>
+  <li>Crossword Game</li>
+  <li>Scientific Calculator</li>
+  <li>Perlin Noise Algorithm</li>
+  <li>Image Viewer</li>
+  <li>ASCII Digital Clock</li>
+  <li>Dijkstra's Algorithm</li>
+  <li>Text/Morse Translator (Optional: create sound)</li>
+  <li>Tick-Tac-Toe</li>
+  <li>Snake Game</li>
+  <li>FTP Client</li>
+  <li>Telnet Server</li>
+  <li>IMP Interpreter</li>
+  <li>Tetris</li>
+  <li>Conway's Game of Life</li>
+  <li>Web Crawler</li>
+  <li>Text Editor</li>
+  <li>RSS Feed Creator</li>
+  <li>Evaluate Binomial Coefficients</li>
+  <li>RPN Calculator</li>
+  <li>Mandelbrot Set</li>
+  <li>Sorting Algorithm</li>
+  <li>Convert Markup -> HTML</li>
+  <li>N Queens Problem</li>
+  <li>Credential Validator (ex: Phone #, e-mail address)</li>
+  <li>Linked List</li>
+  <li>Mastermind</li>
+  <li>Random Image Generator</li>
+  <li>Ulam Spiral</li>
+  <li>Klingon Translator</li>
+  <li>Prime number generator using a Sieve</li>
+  <li>Markov Chain</li>
+  <li>Graphical Analog Clock + GUI</li>
+  <li>2 Seperate Languages Send STrings to One Another (C++ & Java, Lisp & Python, etc.)</li>
+  <li>Triangle Number Calculator</li>
+  <li>Calculate Typing Speed</li>
+  <li>Name Art in ASCII</li>
+  <li>Tower of Hanoi</li>
+  <li>Quine</li>
+  <li>IRC Bot</li>
+  <li>Brainfuck Interpreter</li>
+  <li>Visualization of #57 (Bonus: add sound)</li>
+  <li>Chip-8 Emulator</li>
+  <li>Geekcode Generator (3.12)</li>
+  <li>Define, Translate, & Rotate a Polygon</li>
+  <li>Pong w/ Variable Vectors</li>
+  <li>Battleships w/ AI</li>
+  <li>Simple Paint Program</li>
+  <li>TCP Chat w/ Basic Encryption (XOR)</li>
+  <li>Incremental Economy Simulator (Time of Exploration)</li>
+  <li>Encrypt/Decrypt Text into an Image</li>
+  <li>Pascal's Triangle</li>
+  <li>Sine wave Generator from Pseudorandom Numbers</li>
+  <li>Basic HTML Web Browser</li>
+  <li>Flappy Bird</li>
+  <li>Fast Fourier Transform</li>
+  <li>Method Ringing Simulator</li>
+  <li>Binary Search</li>
+  <li>nintendo Oil Panic</li>
+  <li>Sierpinski Triangle Generator</li>
+  <li>Calculate Dot-&-Cross of 2 Vectors</li>
+  <li>Little Man Computer Simulator</li>
+  <li>Basic Lisp Interpreter</li>
+  <li>Enigma Machine Simulator with settings.conf (Hard mode: decrypt message without known settings)</li>
+</ol>
 
 Changed: 40, 69, 89
 Categories:
