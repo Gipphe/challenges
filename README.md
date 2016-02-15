@@ -6,7 +6,7 @@
   <li>Temperature Converter</li>
   <li>Calculate Age in Seconds</li>
   <li>Encrypt/Decrypt Algorithm</li>
-  <li>X FizzBuzz</li>
+  <li><s>FizzBuzz</s></li>
   <li>Rock Paper Scissors (Optional: Rock Paper Scissors Lizard Spock)</li>
   <li>Hangman</li>
   <li>Love Calculator</li>
@@ -29,10 +29,10 @@
   <li>Picross Solver</li>
   <li>Eulerian Path</li>
   <li>Fibonnaci Sequence</li>
-  <li>Calculate & Print 100 Factorial</li>
+  <li>Calculate &amp; Print 100 Factorial</li>
   <li>Create a cipher encrypt/decrypt tool\*</li>
   <li>Blackjack</li>
-  <li>Dungeons & Dragons w/ AI</li>
+  <li>Dungeons &amp; Dragons w/ AI</li>
   <li>Generate ASCII Tree (height based on input)</li>
   <li>Use Genetic Algorithm on Polygons</li>
   <li>Benford's Law</li>
@@ -70,7 +70,7 @@
   <li>Prime number generator using a Sieve</li>
   <li>Markov Chain</li>
   <li>Graphical Analog Clock + GUI</li>
-  <li>2 Seperate Languages Send STrings to One Another (C++ & Java, Lisp & Python, etc.)</li>
+  <li>2 Seperate Languages Send STrings to One Another (C++ &amp; Java, Lisp &amp; Python, etc.)</li>
   <li>Triangle Number Calculator</li>
   <li>Calculate Typing Speed</li>
   <li>Name Art in ASCII</li>
@@ -81,7 +81,7 @@
   <li>Visualization of #57 (Bonus: add sound)</li>
   <li>Chip-8 Emulator</li>
   <li>Geekcode Generator (3.12)</li>
-  <li>Define, Translate, & Rotate a Polygon</li>
+  <li>Define, Translate, &amp; Rotate a Polygon</li>
   <li>Pong w/ Variable Vectors</li>
   <li>Battleships w/ AI</li>
   <li>Simple Paint Program</li>
@@ -97,7 +97,7 @@
   <li>Binary Search</li>
   <li>nintendo Oil Panic</li>
   <li>Sierpinski Triangle Generator</li>
-  <li>Calculate Dot-&-Cross of 2 Vectors</li>
+  <li>Calculate Dot-&amp;-Cross of 2 Vectors</li>
   <li>Little Man Computer Simulator</li>
   <li>Basic Lisp Interpreter</li>
   <li>Enigma Machine Simulator with settings.conf (Hard mode: decrypt message without known settings)</li>
