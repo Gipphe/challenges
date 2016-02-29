@@ -1,10 +1,16 @@
 # Programming challenges
 
+<dl>
+  <dt>Completed</dt>
+  <dd>FizzBuzz</dd>
+  <dd>Calculate Age in Seconds</dd>
+</dl>
+
 <ol start="0">
   <li>Name Generator</li>
   <li>Higher/Lower | Heads/Tails</li>
   <li>Temperature Converter</li>
-  <li>Calculate Age in Seconds</li>
+  <li><s>Calculate Age in Seconds</s></li>
   <li>Encrypt/Decrypt Algorithm</li>
   <li><s>FizzBuzz</s></li>
   <li>Rock Paper Scissors (Optional: Rock Paper Scissors Lizard Spock)</li>
