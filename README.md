@@ -1,7 +1,7 @@
 # Programming challenges
 
 <ul>
-  <li><b>Completed</b></li>
+  <li style="list-style-type: none"><b>Completed</b></li>
   <li>FizzBuzz</li>
   <li>Calculate Age in Seconds</li>
 </ul>
