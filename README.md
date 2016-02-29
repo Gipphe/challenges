@@ -1,10 +1,10 @@
 # Programming challenges
 
-<dl>
-  <dt>Completed</dt>
-  <dd>FizzBuzz</dd>
-  <dd>Calculate Age in Seconds</dd>
-</dl>
+<ul>
+  <li><b>Completed</b></li>
+  <li>FizzBuzz</li>
+  <li>Calculate Age in Seconds</li>
+</ul>
 
 <ol start="0">
   <li>Name Generator</li>
