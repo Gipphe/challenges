@@ -1,12 +1,13 @@
 # Programming challenges
 
+<h6>Completed:</h6>
 <ul>
-  <li style="list-style-type: none"><b>Completed</b></li>
   <li>FizzBuzz</li>
   <li>Calculate Age in Seconds</li>
 </ul>
 &nbsp;
 <br>
+<h6>Remaining:</h6>
 <ol start="0">
   <li>Name Generator</li>
   <li>Higher/Lower | Heads/Tails</li>
