@@ -4,13 +4,14 @@
 <ul>
   <li>FizzBuzz</li>
   <li>Calculate Age in Seconds</li>
+  <li>Heads/Tails</li>
 </ul>
 &nbsp;
 <br>
 <h6>Remaining:</h6>
 <ol start="0">
   <li>Name Generator</li>
-  <li>Higher/Lower | Heads/Tails</li>
+  <li>Higher/Lower | <s>Heads/Tails</s></li>
   <li>Temperature Converter</li>
   <li><s>Calculate Age in Seconds</s></li>
   <li>Encrypt/Decrypt Algorithm</li>
