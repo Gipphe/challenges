@@ -112,6 +112,11 @@
   <li>Basic Lisp Interpreter</li>
   <li>Enigma Machine Simulator with settings.conf (Hard mode: decrypt message without known settings)</li>
 </ol>
+<br>
+<h6>Custom challenges remaining:</h6>
+<ol start="0">
+  <li>Super Mario clone</li>
+</ol>
 
 Changed: 40, 69, 89
 Categories:
@@ -129,4 +134,3 @@ Categories:
     16, 40, 41, 68, 71, 83
 
 \*Implement at least one tool (except Morse code) in Rumkin Collection: rumkin.com/tools/cipher
-
