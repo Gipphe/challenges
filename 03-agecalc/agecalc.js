@@ -38,11 +38,8 @@ let exit = () => {
 
 let i = 0;
 let len = 3;
-let setPrompt = function(prompt) {
-	rl.setPrompt(prompt);
-};
 
-setPrompt(dobElems[i].toUpperCase() + ': ');
+rl.setPrompt(dobElems[i].toUpperCase() + ': ');
 rl.prompt();
 rl.on('line', (line) => {
 	line = Number(line);
@@ -51,7 +48,7 @@ rl.on('line', (line) => {
 		dob.push(line);
 	}
 	if (next && line) {
-		setPrompt(next.toUpperCase() + ': ');
+		rl.setPrompt(next.toUpperCase() + ': ');
 	} else if (!next) {
 
 	} else {
