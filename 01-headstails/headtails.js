@@ -7,7 +7,7 @@ const checkForQ = require('./checkLine').bind(null, 'q');
 
 const promptUser = function() {
 	console.log('Enter any key to flip a coin');
-	console.log('Enter "q" to quit');	
+	console.log('Enter "q" to quit');
 };
 promptUser();
 rl.setPrompt('#: ');

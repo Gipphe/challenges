@@ -1,26 +1,31 @@
 'use strict';
 
-let readline = require('readline');
-let rl = readline.createInterface(process.stdin, process.stdout);
+const readline = require('readline');
+const rl = readline.createInterface(process.stdin, process.stdout);
 
 console.log('What do you want to convert FROM?');
 console.log('Fahrenheit (F) or Celcius (C)');
 
-let fromTemp;
-let toTemp;
-let state = 0;
-
-let invalidInput = () => {
+const invalidInput = function() {
 	rl.setPrompt('Invalid input. Try again: ');
 	rl.prompt();
 };
+const close = function() {
+	process.exit(0);
+};
+
+let fromTemp;
+let toTemp;
+let state = 0;
 
 rl.setPrompt('>: ');
 rl.prompt();
 
 rl.on('line', function(line) {
 	if (typeof line === 'string') {
-		console.log(typeof line);
+		if (line.length > 1) {
+			invalidInput();
+		}
 		line = line.toLowerCase();
 		if (state === 0) {
 			if (line === 'c' || line === 'f') {
@@ -40,10 +45,10 @@ rl.on('line', function(line) {
 				invalidInput();
 				return;
 			}
-			let toTemp = (fromTemp === 'c' ? 'F' : 'C');
+			let toTemp = fromTemp === 'c' ? 'F' : 'C';
 			let newTemp;
 			if (fromTemp === 'c') {
-				newTemp = (temp * 1.8) + 32;
+				newTemp = temp * 1.8 + 32;
 			} else if (fromTemp === 'f') {
 				newTemp = (temp - 32) / 1.8;
 			}
@@ -62,6 +67,4 @@ rl.on('line', function(line) {
 	} else {
 		invalidInput();
 	}
-}).on('close', function() {
-	process.exit(0);
-});
+}).on('close', close);
