@@ -1,3 +1,4 @@
+'use strict';
 const compareThrows = (throw1, throw2) => {
 	if (throw1 - throw2 === 0) {
 		return null;
