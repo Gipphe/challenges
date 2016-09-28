@@ -5,10 +5,11 @@
     "bluebird": "^3.3.1"
   },
   "scripts": {
-  	"test": "ava */test/"
+    "test": "ava -v */test/"
   },
   "devDependencies": {
     "ava": "^0.16.0",
-    "better-assert": "^1.0.2"
+    "better-assert": "^1.0.2",
+    "tap-nyan": "0.0.2"
   }
 }
