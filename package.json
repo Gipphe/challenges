@@ -1,6 +1,11 @@
 {
   "name": "challenges",
   "version": "0.1.0",
+  "description": "A set of challenges",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gipphe/challenges.git"
+  },
   "dependencies": {
     "bluebird": "^3.3.1"
   },
