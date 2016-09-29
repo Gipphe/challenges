@@ -1,19 +1,14 @@
 'use strict';
+const isValidTextInput = require('./isValidTextInput');
+const isValidNumInput = require('./isValidNumInput');
 module.exports = function(isNumber, input) {
-	let num;
+	if (typeof input !== 'string' || !input.length) {
+		return false;
+	}
 	if (isNumber) {
-		num = Number(input);
-		if (Number.isNaN(num)) {
-			return false;
-		}
+		return isValidNumInput(input);
 	} else {
-		if (
-			typeof input !== 'string' ||
-			input.length > 1 ||
-			input.length <= 0
-		) {
-			return false;
-		}
+		return isValidTextInput(input);
 	}
 
 	return true;
